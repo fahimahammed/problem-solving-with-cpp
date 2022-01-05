@@ -17,5 +17,6 @@ int main()
     for(i=i-1; i>=0; i--){
         cout << bin[i];
     }
+
     return 0;
 }
